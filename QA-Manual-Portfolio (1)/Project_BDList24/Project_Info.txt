@@ -1,0 +1,5 @@
+Project Name: BDList24.com
+Sprint No.: Sprint-6
+URL: http://www.agilt1test.com/
+Scope: Login Page, Registration, Checkout functionalities.
+Testing Type: Functional Testing, UI Testing, Negative Testing
